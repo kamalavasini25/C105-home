@@ -1,1 +1,2 @@
-# C105-home
+# std_deviation
+project solution c105
